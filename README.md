@@ -1,5 +1,8 @@
 # amongus-helper
 
+strona aplikacji: https://amongus.smilgin.eu
+
+
 ## Project setup
 ```
 npm install
